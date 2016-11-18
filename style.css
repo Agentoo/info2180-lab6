@@ -1,0 +1,58 @@
+.banner{ 
+    padding: 20px;
+    height: 100px;
+	width: 900px;
+	margin: auto;
+	position: relative;
+	background-color: #000080;
+	font-size: 80px;
+	font-weight: bold;
+	color: white;
+	font-family: "Courier New";
+	
+}
+
+.search{
+    background-color: #d3d3d3;
+    height: 120px;
+    width: 700px;
+    margin-left:55px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+	font-size: 15px;
+	margin-top: 5px;
+	border-bottom: 1px solid black;
+    font-family: Arial;
+}
+
+
+#result{
+    height: auto;
+    width: 700px;
+    margin-left: 55px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    background-color: #d3d3d3;
+    font-family: Arial;
+}
+
+#dictionary{
+    background-color: #d3d3d3;
+    height:auto;
+    width: 900px;
+    margin:auto;
+    padding: 20px;
+	font-style: italic;
+	margin-top: 5px;
+    font-family: Arial;
+}
+
+#definition{
+    font-size: 15px;
+}
+
+
